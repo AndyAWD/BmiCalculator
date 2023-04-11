@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BmiCalculator</string>
+    <string name="height">身高</string>
+    <string name="input_height">請輸入身高(cm)</string>
+    <string name="weight">體重</string>
+    <string name="input_weight">請輸入體重(kg)</string>
+    <string name="input_bmi">BMI： %1$s</string>
+</resources>
